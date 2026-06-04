@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520987724705",
+    "project_id": "rythuconnect-967f0",
+    "storage_bucket": "rythuconnect-967f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520987724705:android:317069a5e4b9c3941dd9e0",
+        "android_client_info": {
+          "package_name": "com.example.rythuconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Zu9U5MvgMNOQ6zsTy2Nodf7wJaVuEYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
